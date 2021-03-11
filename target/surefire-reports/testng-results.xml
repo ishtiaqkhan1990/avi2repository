@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-11T10:39:37 EST" name="Suite" finished-at="2021-03-11T10:39:37 EST" duration-ms="53">
+    <groups>
+    </groups>
+    <test started-at="2021-03-11T10:39:37 EST" name="Test" finished-at="2021-03-11T10:39:37 EST" duration-ms="53">
+      <class name="shooping.amazon.AddToCartTest">
+        <test-method signature="addtocart(java.lang.String, java.lang.String)[pri:0, instance:shooping.amazon.AddToCartTest@5b0abc94]" started-at="2021-03-11T10:39:37 EST" name="addtocart" data-provider="readdata" finished-at="2021-03-11T10:39:37 EST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[shirt]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addtocart -->
+        <test-method signature="addtocart(java.lang.String, java.lang.String)[pri:0, instance:shooping.amazon.AddToCartTest@5b0abc94]" started-at="2021-03-11T10:39:37 EST" name="addtocart" data-provider="readdata" finished-at="2021-03-11T10:39:37 EST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tshirt]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addtocart -->
+        <test-method signature="addtocart(java.lang.String, java.lang.String)[pri:0, instance:shooping.amazon.AddToCartTest@5b0abc94]" started-at="2021-03-11T10:39:37 EST" name="addtocart" data-provider="readdata" finished-at="2021-03-11T10:39:37 EST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[suit]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[50]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addtocart -->
+        <test-method signature="addtocart(java.lang.String, java.lang.String)[pri:0, instance:shooping.amazon.AddToCartTest@5b0abc94]" started-at="2021-03-11T10:39:37 EST" name="addtocart" data-provider="readdata" finished-at="2021-03-11T10:39:37 EST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[pant]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[15]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addtocart -->
+        <test-method signature="addtocart(java.lang.String, java.lang.String)[pri:0, instance:shooping.amazon.AddToCartTest@5b0abc94]" started-at="2021-03-11T10:39:37 EST" name="addtocart" data-provider="readdata" finished-at="2021-03-11T10:39:37 EST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[shorts]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[20]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addtocart -->
+      </class> <!-- shooping.amazon.AddToCartTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
