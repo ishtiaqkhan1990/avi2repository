@@ -2,7 +2,7 @@ package shooping.amazon;
 
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
-
+//added by avi
 public class AddToCartTest extends Object {
 	@DataProvider
 	public Object[][] readdata()
