@@ -31,6 +31,7 @@ public class AddToCartTest extends Object {
 		System.out.println(item);
 		System.out.println(price);
 		System.out.println("changes made by user 1" );
-		
+		System.out.println("Change done by User 2");
+
 }
 }
